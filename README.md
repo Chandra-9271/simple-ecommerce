@@ -3,7 +3,7 @@
 A simple Java (JSP + Servlet) based e-commerce web application.
 
 ## 🔗 Live demo
-[Click to open](https://abcd1234.ngrok.io/Simple_Ecommerce)
+[Click to open][(https://1994e6a691b0.ngrok-free.app/Simple_Ecommerce)]
 
 ⚠ Note: Sometimes the first page may show Tomcat — please click `/Simple_Ecommerce` to see the app directly.
 
